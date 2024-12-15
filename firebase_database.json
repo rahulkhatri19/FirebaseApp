@@ -1,0 +1,30 @@
+{
+  "users-1234": {
+    "post": {
+      "-OE8mkvQwew8NHu2p6oP": {
+        "like": "30",
+        "postImage": "https://images.unsplash.com/photo-1417325384643-aac51acc9e5d",
+        "userImage": "https://randomuser.me/api/portraits/med/men/75.jpg",
+        "userName": "Su shi"
+      },
+      "-OE8zEuJYKe3HEkwT4nJ": {
+        "like": "20",
+        "postImage": "https://fastly.picsum.photos/id/17/2500/1667.jpg?hmac=HD-JrnNUZjFiP2UZQvWcKrgLoC_pc_ouUSWv8kHsJJY",
+        "userImage": "https://randomuser.me/api/portraits/med/women/90.jpg",
+        "userName": "Nurdan"
+      },
+      "-OE8zEuMZZHaG6jwPWVU": {
+        "like": "15",
+        "postImage": "https://fastly.picsum.photos/id/12/2500/1667.jpg?hmac=Pe3284luVre9ZqNzv1jMFpLihFI6lwq7TPgMSsNXw2w",
+        "userImage": "https://randomuser.me/api/portraits/med/women/74.jpg",
+        "userName": "Olga"
+      },
+      "-OE8zEuNa2nzvwlwA5UP": {
+        "like": "25",
+        "postImage": "https://fastly.picsum.photos/id/13/2500/1667.jpg?hmac=SoX9UoHhN8HyklRA4A3vcCWJMVtiBXUg0W4ljWTor7s",
+        "userImage": "https://randomuser.me/api/portraits/med/men/4.jpg",
+        "userName": "Dorogomir"
+      }
+    }
+  }
+}

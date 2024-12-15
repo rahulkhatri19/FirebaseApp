@@ -12,6 +12,7 @@ firebaseBom = "33.6.0"
 firebaseUIAuth = "7.2.0"
 googleServices = "4.4.2"
 navigationCompose = "2.8.5"
+coilCompose = "3.0.4"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
@@ -37,7 +38,8 @@ firebase-ui-auth = { group = "com.firebaseui", name = "firebase-ui-auth", versio
 # firebase realtime database
 firebase-database = {group="com.google.firebase", name="firebase-database-ktx"}
 androidx-navigation-compose = { group = "androidx.navigation", name = "navigation-compose", version.ref = "navigationCompose" }
-
+coil-compose = {group = "io.coil-kt.coil3", name = "coil-compose", version.ref="coilCompose"}
+coil-compose-okhttp = {group = "io.coil-kt.coil3", name = "coil-network-okhttp", version.ref="coilCompose"}
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }

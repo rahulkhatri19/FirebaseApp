@@ -15,7 +15,7 @@ import com.geekforgeek.firebaseapp.Utility.IS_LOGIN
 @Composable
 fun FirebaseNavigation() {
     val navController = rememberNavController()
-    NavHost(navController = navController, startDestination = FIREBASE_LOGIN_AUTH) {
+    NavHost(navController = navController, startDestination = FIREBASE_HOME) {
         composable(FIREBASE_LOGIN_AUTH) {
             FirebaseLoginAuth(navController = navController)
         }
